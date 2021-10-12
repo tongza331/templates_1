@@ -20,6 +20,17 @@
   color: #8c759f;
   font-size: 25px;
 }
+.ls1{
+  margin-top: 16px;
+  margin-left: 20px;
+  color:#745195;
+  display:inline-block;
+  }
+.ls2 {
+  margin-left: 5px;
+  color: #FFC000;
+  display:inline-block;
+}
 .s1{
   margin-top: 16px;
   margin-left: 20px;
