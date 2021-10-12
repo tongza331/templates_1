@@ -108,6 +108,10 @@ input[type=text], input[type=password] {
   background-color: #f44336;
   color: white;
 }
+/*add opacity*/
+.cencelbtn:hover {
+  opacity: 0.8;
+}
 
 /* Center the image and position the close button */
 
@@ -192,9 +196,9 @@ input[type=text]:focus, input[type=password]:focus {
   background-color: #D9B5D9;
   color: black;
 }
-
+/*add opacity*/
 .button2:hover {
-  opacity:1;
+  opacity:0.8;
 }
 
 /* Extra styles for the cancel button */
@@ -203,11 +207,19 @@ input[type=text]:focus, input[type=password]:focus {
   background-color: #f44336;
   color: white;
 }
+/*add opacity*/
+.cancelbtn-rg:hover {
+  opacity: 0.8;
+}
 
 .signupbtn{
   padding: 14px 20px;
   background-color: #D9B5D9;
-  color: white;
+  color: black;
+}
+/*add opacity*/
+.signupbtn:hover {
+  opacity: 0.8;
 }
 .signupbtn{
   float: right;
